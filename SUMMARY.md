@@ -44,7 +44,7 @@
 * [Contracts](contracts.md)
 * [Helpful information about supporting chain](helpful-information-about-supporting-chain.md)
 * [Known issues](known-issues.md)
-* [Test net](https://bridgetest.tusima.network/)
+* [Testnet](https://bridgetest.tusima.network/)
 * [Token Bridge](https://bridgetest.tusima.network/transfer)
 * [Github](https://github.com/TusimaNetwork)
 * [Twitter](https://twitter.com/TusimaNetwork)
