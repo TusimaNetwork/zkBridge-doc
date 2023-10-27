@@ -10,8 +10,17 @@ Tusima zkBridge is a one-stop cross-chain solution based on zkSNARKs technology 
 
 Tusima zkBridge endeavors to establish a trustless and permissionless cross-chain infrastructure that facilitates seamless and secure cross-chain communication. It empowers the streamlined development of comprehensive blockchain applications, including but not limited to omnichain tokens and cross-chain lending. Currently, it supports the following two cross-chain methods:
 
-* Goerli -> BSC Testnet
-* Goerli <-> zkSync era Testnet
+* Goerli --> BSC Testnet
+* Goerli <--> zkSync era Testnet
+
+More cross-chain options are under development:
+
+- Goerli <--> Polygon zkEVM
+- Goerli <--> Scroll
+- Goerli <--> Arbitrum
+- Goerli <--> Optimism
+- BSC Testnet --> Goerli
+- Goerli <--> NEAR
 
 {% hint style="info" %}
 Notice:
