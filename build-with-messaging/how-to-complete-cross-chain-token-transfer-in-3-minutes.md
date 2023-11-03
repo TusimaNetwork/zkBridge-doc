@@ -55,7 +55,7 @@ interface ITokenMock is IERC20 {
 }
 ```
 
- `TokenMock.sol` is an implementation contract that builds upon `ETC20.sol` provided by OpenZeppelin and adds `mint` and `burn` functions:
+ `TokenMock.sol` is an implementation contract that builds upon `ERC20.sol` provided by OpenZeppelin and adds `mint` and `burn` functions:
 
 ```solidity
 function mint(address _to, uint256 _amount) public virtual override onlyAdmin{
