@@ -12,7 +12,7 @@
 * [Importing](build-with-messaging/importing.md)
 * [Receiving](build-with-messaging/receiving.md)
 * [Sending](build-with-messaging/sending.md)
-* [Build a cross-chain bridge in 3 minutes](build-with-messaging/build-a-cross-chain-bridge-in-3-minutes.md)
+* [How to Complete Cross-chain Token Transfer in 3 Minutes?](build-with-messaging/how-to-complete-cross-chain-token-transfer-in-3-minutes.md)
 
 ## Usage for Token Bridge
 

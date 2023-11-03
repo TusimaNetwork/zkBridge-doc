@@ -6,7 +6,7 @@ description: >-
 
 # Getting started
 
-Tusima zkBridge is an all-in-one cross-chain solution. It encompasses both the Messaging component to facilitate rapid cross-chain communication for developers and the Token Bridge component to enable end-users to transfer assets across chains.&#x20;
+Tusima zkBridge is an all-in-one cross-chain solution. It encompasses both the Messaging component to facilitate rapid cross-chain communication for developers and the Token Bridge component to enable end-users to transfer assets across chains.
 
 The following link can guide you on how to use the Messaging component for cross-chain communication.
 
@@ -16,8 +16,8 @@ The following link can guide you on how to use the Messaging component for cross
 
 We also provide a demo that can guide you on how to quickly implement an ERC20 Token cross-chain bridge.
 
-{% content-ref url="build-with-messaging/build-a-cross-chain-bridge-in-3-minutes.md" %}
-[build-a-cross-chain-bridge-in-3-minutes.md](build-with-messaging/build-a-cross-chain-bridge-in-3-minutes.md)
+{% content-ref url="build-with-messaging/how-to-complete-cross-chain-token-transfer-in-3-minutes.md" %}
+[how-to-complete-cross-chain-token-transfer-in-3-minutes.md](build-with-messaging/how-to-complete-cross-chain-token-transfer-in-3-minutes.md)
 {% endcontent-ref %}
 
 The following link offers valuable development information frequently used, including `chain ID` and `RPC` details for various chains.
