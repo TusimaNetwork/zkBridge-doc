@@ -17,3 +17,9 @@
 <figure><img src="../.gitbook/assets/logo- (1).svg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/logo2.svg" alt=""><figcaption></figcaption></figure>
+
+
+
+## Primary Palette
+
+<figure><img src="../.gitbook/assets/logo1 [已恢复]-03.png" alt=""><figcaption></figcaption></figure>
