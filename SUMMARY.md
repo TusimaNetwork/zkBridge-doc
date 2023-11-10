@@ -44,6 +44,13 @@
 * [Contracts](contracts.md)
 * [Helpful information about supporting chain](helpful-information-about-supporting-chain.md)
 * [Known issues](known-issues.md)
+
+## Media
+
+* [Branding kit](media/branding-kit.md)
+
+***
+
 * [Testnet](https://bridgetest.tusima.network/)
 * [Token Bridge](https://bridgetest.tusima.network/transfer)
 * [Github](https://github.com/TusimaNetwork)
